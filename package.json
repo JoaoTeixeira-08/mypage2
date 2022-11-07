@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FabricaDeSinapse/GitHub-Actions.git"
+    "url": "https://github.com/JoaoTeixeira-08/mypage2/actions"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FabricaDeSinapse/GitHub-Actions/issues"
+    "url": "https://github.com/JoaoTeixeira-08/mypage2/issues"
   },
-  "homepage": "https://github.com/FabricaDeSinapse/GitHub-Actions#readme"
+  "homepage": "https://github.com/JoaoTeixeira-08/mypage2/blob/main/index.js"
 }
